@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aggarwalshubham026@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12vDZJS0Tok5Um1uJ3eIz61H-O2eY2sra/view?usp=sharing](https://drive.google.com/file/d/12vDZJS0Tok5Um1uJ3eIz61H-O2eY2sra/view?usp=sharing)
+- 📄 Know about my experiences [Google Drive Link - Resume](https://drive.google.com/file/d/1VFHrQDGrZdIe0NrUaFhfguuFPBEPV6VK/view?usp=sharing)
 
 - ⚡ Fun fact **There is always so much to learn. After climbing up one peak, you will see another bigger goal up ahead. Learning is a never ending process**
 
