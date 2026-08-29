@@ -55,7 +55,7 @@ Two and a bit years shipping production software across **iGaming, fintech, heal
 | Project | What it is | Scale |
 |---|---|---|
 | **[Days of Poker](https://www.daysofpoker.com)** | Poker events and community platform. Backend lead. | 20,000+ users · 100+ events/month |
-| **[Finvault](https://finvault.finaccru.com)** | B2B financial documentation and approval workflows. | 30 companies · 20+ features |
+| **[Finvault](https://finaccru.com)** | B2B financial documentation and approval workflows. | 30 companies · 20+ features |
 | **[X-EV](https://www.x-ev.io)** | Charge-point management for EV network operators. | 5-station rollout · 480 kW chargers |
 | **[The Washee](https://thewashee.com)** | Service booking with admin, promos, and inspections. | Live |
 | **[Jiva Healthcare](https://play.google.com/store/apps/details?id=com.HealthApp)** | Medtech app on the Play Store. | 50+ IoT devices |
