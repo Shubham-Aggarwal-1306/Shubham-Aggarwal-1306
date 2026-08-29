@@ -1,45 +1,101 @@
-<h2 align="left">I'm a passionate software developer and technology enthusiast with a strong focus on web development and problem-solving. Welcome to my GitHub profile!</h2>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=6BCB77&center=true&vCenter=true&width=650&lines=Backend-focused+Full-Stack+Engineer;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+AWS;Shipping+production+platforms+since+2022" alt="Backend-focused Full-Stack Engineer" />
+
+### Shubham Aggarwal
+
+**Associate, Software Engineering @ Daffodil Unthinkable** · Delhi, India
+
+<a href="https://shubham-aggarwal.tech"><img src="https://img.shields.io/badge/Portfolio-08080a?style=for-the-badge&logo=firefox&logoColor=6BCB77" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shubhamaggarwaltech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aggarwalshubham026@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
+
+### Currently
+
+Backend lead on **[Days of Poker](https://www.daysofpoker.com)** — a poker events and community platform serving **20,000+ users**.
+
+I own the tournament lifecycle services running **100+ events monthly**: event scheduling, live result ingestion, and automated league standings across seasons. I lead a **3-engineer backend team**, setting service structure, review standards, and release process.
+
+Two and a bit years shipping production software across **iGaming, fintech, healthcare, EV infrastructure, and e-commerce**.
+
+---
+
+### Stack
+
+**Services & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Clients**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+### Shipped
+
+| Project | What it is | Scale |
+|---|---|---|
+| **[Days of Poker](https://www.daysofpoker.com)** | Poker events and community platform. Backend lead. | 20,000+ users · 100+ events/month |
+| **[Finvault](https://finvault.finaccru.com)** | B2B financial documentation and approval workflows. | 30 companies · 20+ features |
+| **[X-EV](https://www.x-ev.io)** | Charge-point management for EV network operators. | 5-station rollout · 480 kW chargers |
+| **[The Washee](https://thewashee.com)** | Service booking with admin, promos, and inspections. | Live |
+| **[Jiva Healthcare](https://play.google.com/store/apps/details?id=com.HealthApp)** | Medtech app on the Play Store. | 50+ IoT devices |
+
+**Also:** 4xBay — exchange operations dashboard with role and feature-level access control, cutting developer intervention by **70%**, integrating **10+ blockchain networks**.
+
+---
+
+### A few numbers I'm proud of
+
+```
+  70%   less developer intervention    4xBay · RBAC + feature flags
+  45%   faster query response          Zaloom · unified MySQL + MongoDB layer
+  40%   lower infrastructure cost      Acumensa · serverless on AWS + GCP
+```
+
+---
+
+### Recognition
+
+- **Early promotion** — advanced to Associate a full year ahead of every peer in my hiring cohort
+- **Home Run** — Daffodil Unthinkable's delivery-impact award
+- **New Star on the Block** — one of only 5 recipients across the cohort
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Aggarwal-1306&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham-Aggarwal-1306&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+
+**[shubham-aggarwal.tech](https://shubham-aggarwal.tech)** · Open to backend and full-stack roles
+
 </div>
 
-###
+<!--
+OPTIONAL — GitHub stats cards.
+Uncomment once your public contribution graph looks healthy. Right now most
+of your work is in private and company repos, so these will render low
+numbers and undercut everything above. Add them when they help, not before.
 
-<img align="right" height="150" src="https://media1.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47j919lnego34z8klkdlg5qju32jni1iy3uix188l0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="42" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" width="42" alt="sqlalchemy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" width="42" alt="sequelize logo"  />
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Shubham-Aggarwal-1306&show_icons=true&theme=dark&hide_border=true&bg_color=08080a&title_color=6BCB77&icon_color=6BCB77" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Aggarwal-1306&layout=compact&theme=dark&hide_border=true&bg_color=08080a&title_color=6BCB77" />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/users/Shubham_1306#3516" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:aggarwalshubham026@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-aggarwal-654ab521a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+-->
