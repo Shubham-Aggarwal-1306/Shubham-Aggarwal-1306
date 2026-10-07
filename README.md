@@ -81,12 +81,26 @@ Two and a bit years shipping production software across **iGaming, fintech, heal
 - **New Star on the Block** — one of only 5 recipients across the cohort
 
 ---
-
+<div id="2"> </div>
 <div align="center">
 
 **[shubham-aggarwal.tech](https://shubham-aggarwal.tech)** · Open to backend and full-stack roles
 
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const container = document.getElementById('2');
+    if (!container) return;
+
+    const box = document.createElement('div');
+    box.style.width = '200px';
+    box.style.height = '200px';
+    box.style.backgroundColor = '#4a90e2';
+
+    container.appendChild(box);
+  });
+</script>
 
 <!--
 OPTIONAL — GitHub stats cards.
